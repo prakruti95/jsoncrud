@@ -37,7 +37,7 @@ class _ViewScreenState extends State<ViewScreen>
   {
     return Scaffold
       (
-        appBar: AppBar(title: Text("View Data"),actions:
+        appBar: AppBar(title: Text("View Page"),actions:
         [
             IconButton(onPressed: ()
             {
